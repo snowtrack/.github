@@ -6,6 +6,6 @@ Snowtrack is the intuitive versioning tool for creatives. We help artists iterat
 
 ## Get in touch!
 
-Learn more about what we're doing in open source at [www.snowtrack.io](https://www.snowtrack.io).
+Learn more about what we're doing at [www.snowtrack.io](https://www.snowtrack.io).
 
 We are also active on Twitter 🐦 [@snowtrack_io](https://twitter.com/snowtrack_io)
