@@ -8,4 +8,4 @@ Snowtrack is the intuitive versioning tool for creatives. We help artists iterat
 
 Learn more about what we're doing at [www.snowtrack.io](https://www.snowtrack.io).
 
-We are also active on Twitter 🐦 [@snowtrack_io](https://twitter.com/snowtrack_io)
+We are also active on Twitter 🐦 [@snowtrack_io](https://twitter.com/snowtrack_io) and 👾 [Discord](https://discord.gg/cbrTXuYKR7)
