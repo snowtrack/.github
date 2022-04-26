@@ -1,4 +1,4 @@
-## Welcome to Snowtrack 👋
+## ❄️ Welcome to Snowtrack 👋
 
 ![Snowtrack Logo](https://snowtrack.io/images/snowtrack-website-header.jpeg)
 
